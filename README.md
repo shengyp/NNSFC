@@ -143,7 +143,7 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 - `2022.02.22`国自然基金正赶急？来看看美国版优青50万美元《NSF CAREER》项目本子怎么写，微软技术大牛前UT教授Austin申请心得  **[[Link](https://mp.weixin.qq.com/s/38N3PFHXAflMoJ7o-57xSw)]**
 
 
-- `2022.02.24` 申请国家自然科学基金心得与体会（PPT版）—刘家军教授  **[[Link](https://mp.weixin.qq.com/s/F6nhE063Le0cN8904A6pqg)]** [[PPT](https://pan.baidu.com/s/1Eum03eQMMJWSSAOH3B0TwA?pwd=h9ji)]**
+- `2022.02.24` 申请国家自然科学基金心得与体会（PPT版）—刘家军教授  **[[Link](https://mp.weixin.qq.com/s/F6nhE063Le0cN8904A6pqg)]** **[[PPT](https://pan.baidu.com/s/1Eum03eQMMJWSSAOH3B0TwA?pwd=h9ji)]**
 
 
 - `2022.03.24` 基金委：2022年总预算经费再次增加!  **[[Link](https://mp.weixin.qq.com/s/EywAbunhnR-fIp2t02tgDg)]**
