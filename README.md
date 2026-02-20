@@ -85,7 +85,7 @@ http://www.360doc.com/content/20/0315/17/8729276_899375743.shtml). 2020.03.15.
 
 
 21. [国家自然科学基金上会评审(会评)基本情况介绍](
-https://www.medsci.cn/article/show_article.do?id=e4c213996308). 2018.06.04. | [【学术相关】国家自然科学基金申请——函评等级与上会](https://mp.weixin.qq.com/s?__biz=MzE5OTIyODc3OA==&mid=2247518119&idx=4&sn=f0b2c427d10403c04dbdf9f8eaa32c5b&source=41&poc_token=HFoYmGmje_P_4MgkYu5iieJTg4w77B5YDCz-xAoY
+https://www.medsci.cn/article/show_article.do?id=e4c213996308). 2018.06.04. | [【学术相关】国家自然科学基金申请——函评等级与上会](https://mp.weixin.qq.com/s/Iw6qMAhrCJJ9eqjxCNQ-kQ
 ). 2022.05.18. 
 
 
