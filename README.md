@@ -137,10 +137,11 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 - `2022.02.13` 2022国自然申请，这件事不要再弄错了！  **[[Link](https://www.toutiao.com/w/i1724605924905998/?tt_from=weixin&utm_campaign=client_share&timestamp=1644720747&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&share_token=4ff3f7f6-61aa-4f27-9e12-44ea4cd48742&wxshare_count=1)]**
 
 
-34. [国自然基金正赶急？来看看美国版优青50万美元《NSF CAREER》项目本子怎么写，微软技术大牛前UT教授Austin申请心得](https://austinhenley.com/pubs/Henley2021NSFCAREER.pdf). 2022.02.22. [[Report]](https://mp.weixin.qq.com/s/38N3PFHXAflMoJ7o-57xSw)
+- `2021` CAREER:Inquisitive Programming Environments as Learning Environments for Novices and Experts  **[[PDF]https://austinhenley.com/pubs/Henley2021NSFCAREER.pdf]**
+- `2022.02.22`国自然基金正赶急？来看看美国版优青50万美元《NSF CAREER》项目本子怎么写，微软技术大牛前UT教授Austin申请心得  **[[Link](https://mp.weixin.qq.com/s/38N3PFHXAflMoJ7o-57xSw)]**
 
 
-35. [申请国家自然科学基金心得与体会（PPT版）—刘家军教授](https://mp.weixin.qq.com/s/F6nhE063Le0cN8904A6pqg). 2022.02.24. [[Report]](https://pan.baidu.com/s/1Eum03eQMMJWSSAOH3B0TwA?pwd=h9ji)
+- `2022.02.24` 申请国家自然科学基金心得与体会（PPT版）—刘家军教授  **[[Link](https://mp.weixin.qq.com/s/F6nhE063Le0cN8904A6pqg)]** [[PPT](https://pan.baidu.com/s/1Eum03eQMMJWSSAOH3B0TwA?pwd=h9ji)]**
 
 
 - `2022.03.24` 基金委：2022年总预算经费再次增加!  **[[Link](https://mp.weixin.qq.com/s/EywAbunhnR-fIp2t02tgDg)]**
