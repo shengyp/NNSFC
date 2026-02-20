@@ -97,7 +97,7 @@ https://mp.weixin.qq.com/s/wY02yGDxLi0W2F57O4em0Q) 2021.07.21.
 23. [2021年国基金即将公布，这几个问题先了解一下！](
 https://mp.weixin.qq.com/s/bwau18N95U0Pkbfad2LwNg) 2021.08.15. | [实锤！国自然放榜时间确定（内含时间表）](
 https://mp.weixin.qq.com/s/i6aqOYQ-ijdBtTLAEAVOYQ) 2021.08.17. | [通知通告 | 关于2021年国家自然科学基金集中接收申请项目评审结果的通告](
-https://mp.weixin.qq.com/s/6U-uuDcdT47UAQHf_oQWdw) 2021.08.17. | [通知通告 | 重磅统计！国家自然科学基金申请，哪些高校表现出色？](
+https://mp.weixin.qq.com/s/6U-uuDcdT47UAQHf_oQWdw) 2021.08.18. | [通知通告 | 重磅统计！国家自然科学基金申请，哪些高校表现出色？](
 https://mp.weixin.qq.com/s/eNkpELw0RBdZ9EJUl5SVrQ) 2021.08.17.
 
 
