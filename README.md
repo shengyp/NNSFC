@@ -10,13 +10,13 @@
 - `2021.01.15`  2021年国家自科基金项目指南.   **[[PDF](http://m.nsfc.gov.cn/publish/portal0/tab882/)]**
 
 
-2. [重磅！2021年国家自科基金项目申请时间确定！](https://mp.weixin.qq.com/s/m4cYcMFmov5K0dhQJco2rQ) 2021.01.05. 
+- `2021.01.05`  重磅！2021年国家自科基金项目申请时间确定！**[[PDF](https://mp.weixin.qq.com/s/m4cYcMFmov5K0dhQJco2rQ)]**  
 
 
-3. [2020国基金评审专家：基金项目评审感受及发现的主要问题](https://mp.weixin.qq.com/s/6ECPwt8LGNYgJI5Ai49pww) 2021.01.03. 
+- `2021.01.03`  2020国基金评审专家：基金项目评审感受及发现的主要问题 **[[PDF](https://mp.weixin.qq.com/s/6ECPwt8LGNYgJI5Ai49pww)]** 
 
 
-4. [2021年国家自然科学基金申请书写作攻略](https://mp.weixin.qq.com/s/fCBF9KlNs44eyxGPY10KSA) 2020.12.05. 
+-` 2020.12.05`  2021年国家自然科学基金申请书写作攻略  **[[PDF](https://mp.weixin.qq.com/s/fCBF9KlNs44eyxGPY10KSA)]**
 
 
 5. [【重磅】浅析人工智能(F06)学科基金项目2018-2020申请资助情况及展望](
@@ -24,64 +24,64 @@ http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200870
 ) 2020.12. [[Report]](https://mp.weixin.qq.com/s/Ph9--ufP9i4s_DYVo3GX5Q)
 
 
-6. [重磅消息：《2021年度国家自然科学基金项目指南》拟12月中旬发布](
-https://mp.weixin.qq.com/s/qalItFeqjWKZXmB78qgYHA) 2020.10.13.
+-` 2020.10.13` 重磅消息：《2021年度国家自然科学基金项目指南》拟12月中旬发布  **[[PDF](
+https://mp.weixin.qq.com/s/qalItFeqjWKZXmB78qgYHA)]**
 
 
-7. [通报批评！基金委处理一评审“打招呼”案例，撤销已资助项目，并取消申请资格3年！​](
-https://mp.weixin.qq.com/s/thE9wG6AlL6Wwti1spUTEw) 2021.01.17.
+-` 2021.01.17` 通报批评！基金委处理一评审“打招呼”案例，撤销已资助项目，并取消申请资格3年！​ **[[PDF](
+https://mp.weixin.qq.com/s/thE9wG6AlL6Wwti1spUTEw)]**
 
 
-8. [必看！2021年国家自然科学基金NSFC标书撰写要点详述，附NSFC2021指南下载](
-https://mp.weixin.qq.com/s/-4N0t6kEhAmwqJgOnvSvgg) 2021.01.18.
+-` 2021.01.18` 必看！2021年国家自然科学基金NSFC标书撰写要点详述，附NSFC2021指南下载  **[[PDF](
+https://mp.weixin.qq.com/s/-4N0t6kEhAmwqJgOnvSvgg)]**
 
 
-9. [一文读懂2021年国家自然科学基金限项新旧政策对比](
-https://www.toutiao.com/i6923160299029676557/?tt_from=weixin_moments&utm_campaign=client_share&wxshare_count=3&timestamp=1611938330&app=news_article&utm_source=weixin_moments&utm_medium=toutiao_android&use_new_style=1&req_id=20210130003849010130037138561E9F9A&share_token=33929068-7e4f-4c9d-839d-13b4b09c0acc&group_id=6923160299029676557) 2021.01.29.
+-` 2021.01.29` 一文读懂2021年国家自然科学基金限项新旧政策对比  **[[PDF](
+https://www.toutiao.com/i6923160299029676557/?tt_from=weixin_moments&utm_campaign=client_share&wxshare_count=3&timestamp=1611938330&app=news_article&utm_source=weixin_moments&utm_medium=toutiao_android&use_new_style=1&req_id=20210130003849010130037138561E9F9A&share_token=33929068-7e4f-4c9d-839d-13b4b09c0acc&group_id=6923160299029676557)]**
 
 
-10. [国家自然科学基金八大学部四类科学问题属性83个典型案例](
-https://mp.weixin.qq.com/s/LeqbNvr-15j-VoVxjhSYGg) 2021.02.07.
+-` 2021.02.07` 国家自然科学基金八大学部四类科学问题属性83个典型案例  **[[PDF](
+https://mp.weixin.qq.com/s/LeqbNvr-15j-VoVxjhSYGg)]**
 
 
-11. [基金申请季开启！评审人分享15条写作技巧](
-https://mp.weixin.qq.com/s/n1BbqXi1SVSTEsptChnj1A) 2020.12.12.
+-` 2020.12.12` 基金申请季开启！评审人分享15条写作技巧  **[[PDF](
+https://mp.weixin.qq.com/s/n1BbqXi1SVSTEsptChnj1A)]**
 
 
-12. [2021年国自然(NSFC)申请全攻略(含全攻略下载)](
-https://mp.weixin.qq.com/s/WlzO0fAtyyydhvDMZJ_B6A) 2021.02.17.
+-` 2021.02.17` 2021年国自然(NSFC)申请全攻略(含全攻略下载)  **[[PDF](
+https://mp.weixin.qq.com/s/WlzO0fAtyyydhvDMZJ_B6A)]**
 
 
-13. [基金本子提交在即！这11个问题现在改还来得及.](
-https://mp.weixin.qq.com/s/48bMq_XebZ-oUotUH9OYgA) 2021.03.08.
+-` 2021.03.08` 基金本子提交在即！这11个问题现在改还来得及.  **[[PDF](
+https://mp.weixin.qq.com/s/48bMq_XebZ-oUotUH9OYgA)]** 
 
 
-14. [国基金集中接收截止在即！《申请书》形式自查明细表来了！](
-https://mp.weixin.qq.com/s/_0hpZWgCnsFlOVZ65XzR6g) 2021.03.08.
+-` 2021.03.08` 国基金集中接收截止在即！《申请书》形式自查明细表来了！  **[[PDF](
+https://mp.weixin.qq.com/s/_0hpZWgCnsFlOVZ65XzR6g)]**
 
 
-15. [请确保NSFC申请书中5篇代表作信息规范准确.](
-https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.08.
+-` 2021.03.08` 请确保NSFC申请书中5篇代表作信息规范准确.  **[[PDF](
+https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A)]**
 
 
 16. [国家自然科学基金委更新四类科学问题属性案例（2021版）](
 https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.10. [[国家自然科学基金委更新四类科学问题属性案例（2021版）]](https://mp.weixin.qq.com/s/GDMHAUgakfDYmgt3ITbKRQ)  [[四类科学问题属性案例说明]](./国家自然科学基金/四类科学问题属性案例说明（2021-3-2）.pdf)  [[信息科学部案例]](./国家自然科学基金/信息科学部案例.pdf) 
 
 
-17. [重磅改革！国家自然科学基金委9个学部将整合为四大板块](
-https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
+-` 2021.03.25` 重磅改革！国家自然科学基金委9个学部将整合为四大板块  **[[PDF](
+https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw)]**
 
 
-18. [据悉，2021年NSFC青年基金，竞争或将非常激烈....](
-https://mp.weixin.qq.com/s/oM1TFFJIkFq62n_qsG7LNw). 2021.05.08.
+-` 2021.05.08` 据悉，2021年NSFC青年基金，竞争或将非常激烈....  **[[PDF](
+https://mp.weixin.qq.com/s/oM1TFFJIkFq62n_qsG7LNw)]**
 
 
-19. [面上\青年经费占比偏低，建议提高！避免人才项目异化，2020年国自然绩效报告公布](
-https://mp.weixin.qq.com/s/Wudbbos96DhNowlml4KKbQ). 2021.06.01.
+-` 2021.06.01` 面上\青年经费占比偏低，建议提高！避免人才项目异化，2020年国自然绩效报告公布  **[[PDF](
+https://mp.weixin.qq.com/s/Wudbbos96DhNowlml4KKbQ)]**
 
 
-20. [国家自然科学基金上会标准及评审流程](
-http://www.360doc.com/content/20/0315/17/8729276_899375743.shtml). 2020.03.15.
+-` 2020.03.15` 国家自然科学基金上会标准及评审流程  **[[PDF](
+http://www.360doc.com/content/20/0315/17/8729276_899375743.shtml)]** 
 
 
 21. [国家自然科学基金上会评审(会评)基本情况介绍](
@@ -90,8 +90,8 @@ https://www.medsci.cn/article/show_article.do?id=e4c213996308). 2018.06.04. | [�
 
 
 
-22. [国家自然科学基金委员会2020年度报告出炉！](
-https://mp.weixin.qq.com/s/wY02yGDxLi0W2F57O4em0Q) 2021.07.21.
+-` 2021.07.21` 国家自然科学基金委员会2020年度报告出炉！  **[[PDF](
+https://mp.weixin.qq.com/s/wY02yGDxLi0W2F57O4em0Q)]**
 
 
 23. [2021年国基金即将公布，这几个问题先了解一下！](
@@ -101,30 +101,30 @@ https://mp.weixin.qq.com/s/6U-uuDcdT47UAQHf_oQWdw) 2021.08.18. | [重磅统计�
 https://mp.weixin.qq.com/s/eNkpELw0RBdZ9EJUl5SVrQ) 2021.08.18.
 
 
-24. [国自然放榜后，这些评审意见背后的深意你知道吗？](
-https://mp.weixin.qq.com/s/Uai4JTSem2Iqy9Hri-jwHg) 2021.08.23.
+-` 2021.08.23` 国自然放榜后，这些评审意见背后的深意你知道吗？  **[[PDF](
+https://mp.weixin.qq.com/s/Uai4JTSem2Iqy9Hri-jwHg)]**
 
 
 25. [杨顺华：青年基金申请一击即中的秘密，谈青基写作的几点个人体会](
 https://www.toutiao.com/i7004092661879636494/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1630838014&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210905183333010151196228558A7BB5&share_token=0ce9a7fe-b908-4828-86e9-9396f72c16ce&group_id=7004092661879636494). 2021.09.04.
 
 
-26. [2021年青年科学基金项目评议要点](
-https://mp.weixin.qq.com/s/R17zM2VQWdty0He7kjksWg). 2021.09.05.
+-` 2021.09.05` 2021年青年科学基金项目评议要点  **[[PDF](
+https://mp.weixin.qq.com/s/R17zM2VQWdty0He7kjksWg)]**
 
 
-27. [国自然交叉学部常务副主任:青年学者在交叉科研中应坚持研究工作独立性和研究方向的独特性！](
-https://mp.weixin.qq.com/s/z3zwZA-4UAF0SVlkJ2LOIQ) 2021.10.16.
+-` 2021.10.16` 国自然交叉学部常务副主任:青年学者在交叉科研中应坚持研究工作独立性和研究方向的独特性！  **[[PDF](
+https://mp.weixin.qq.com/s/z3zwZA-4UAF0SVlkJ2LOIQ)]**
 
 
-28. [2021年度NSFC人工智能学科基金项目申请资助情况及学科发展展望](
-http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
+-` 2021.11.17` 2021年度NSFC人工智能学科基金项目申请资助情况及学科发展展望  **[[PDF](
+http://html.rhhz.net/tis/html/202111003.htm)]**
 
 
-29. [刚刚！2022年度国自然基金申请通知出炉](https://mp.weixin.qq.com/s/7J9OPIymnqHpC8YFqqArjQ). 2022.01.05.
+-`  2022.01.05` 刚刚！2022年度国自然基金申请通知出炉  **[[PDF](https://mp.weixin.qq.com/s/7J9OPIymnqHpC8YFqqArjQ)]**
 
 
-30. [基金委：论文不再标注通讯和一作了，影响有多大？](https://mp.weixin.qq.com/s/sELkWY2PxMsk9MEweuwsag). 2022.01.06.
+-` 2022.01.06` 基金委：论文不再标注通讯和一作了，影响有多大？  **[[PDF](https://mp.weixin.qq.com/s/sELkWY2PxMsk9MEweuwsag)]**
 
 
 31. [【重磅】2022年国家自然科学基金项目指南正式公布！(附下载)](https://mp.weixin.qq.com/s/F0fGLTyVbansyBoooxj_Pw). 2022.01.19.
