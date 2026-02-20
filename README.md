@@ -10,10 +10,10 @@
 - `2021.01.15`  2021年国家自科基金项目指南.   **[[PDF](http://m.nsfc.gov.cn/publish/portal0/tab882/)]**
 
 
-2. [重磅！2021年国家自科基金项目申请时间确定！](https://mp.weixin.qq.com/s/m4cYcMFmov5K0dhQJco2rQ) 2020.01.05. 
+2. [重磅！2021年国家自科基金项目申请时间确定！](https://mp.weixin.qq.com/s/m4cYcMFmov5K0dhQJco2rQ) 2021.01.05. 
 
 
-3. [2020国基金评审专家：基金项目评审感受及发现的主要问题](https://mp.weixin.qq.com/s/6ECPwt8LGNYgJI5Ai49pww) 2020.01.03. 
+3. [2020国基金评审专家：基金项目评审感受及发现的主要问题](https://mp.weixin.qq.com/s/6ECPwt8LGNYgJI5Ai49pww) 2021.01.03. 
 
 
 4. [2021年国家自然科学基金申请书写作攻略](https://mp.weixin.qq.com/s/fCBF9KlNs44eyxGPY10KSA) 2020.12.05. 
