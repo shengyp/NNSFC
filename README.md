@@ -137,7 +137,7 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 - `2022.02.13` 2022国自然申请，这件事不要再弄错了！  **[[Link](https://www.toutiao.com/w/i1724605924905998/?tt_from=weixin&utm_campaign=client_share&timestamp=1644720747&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&share_token=4ff3f7f6-61aa-4f27-9e12-44ea4cd48742&wxshare_count=1)]**
 
 
-- `2021` CAREER:Inquisitive Programming Environments as Learning Environments for Novices and Experts  **[[PDF]https://austinhenley.com/pubs/Henley2021NSFCAREER.pdf]**
+- `2021` CAREER:Inquisitive Programming Environments as Learning Environments for Novices and Experts  **[[PDF](https://austinhenley.com/pubs/Henley2021NSFCAREER.pdf)]**
 - `2022.02.22`国自然基金正赶急？来看看美国版优青50万美元《NSF CAREER》项目本子怎么写，微软技术大牛前UT教授Austin申请心得  **[[Link](https://mp.weixin.qq.com/s/38N3PFHXAflMoJ7o-57xSw)]**
 
 
@@ -254,7 +254,13 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 - `2023.07.25` 喜报！新疆农业大学多项科技计划项目喜获立项  **[[Link](https://mp.weixin.qq.com/s/qSpW_TT7PBK9iHP1qoJV2g?poc_token=HN4-v2SjhTUnam2q-_-NT1tDo4ncfi1FA1BJDVet)]**
 
 
-73. [知乎热议 | 如何看待国家自然科学基金委试点资助优秀本科生，本科生达到什么条件可获得该基金资助？](https://mp.weixin.qq.com/s/KiAUwSch7bDZSv0MhDaVkw) 2023.07.09. | [太厉害了！国自然基金首次资助优秀本科生，中科大学生获批！](https://www.toutiao.com/article/7276439660618908160/?app=news_article&timestamp=1694186580&use_new_style=1&req_id=20230908232300DABEA794A86D09924A80&group_id=7276439660618908160&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=14ca7398-7393-4363-aa78-a8cd5ed45923&source=m_redirect&wid=1694229259017) 2023.09.08.  | [窦贤康：下一步试点开展对博士生的直接资助](https://mp.weixin.qq.com/s/GbxRnsEDJHlVefZP-yoDig) 2023.09.09. 
+- `2023.07.09` 知乎热议 | 如何看待国家自然科学基金委试点资助优秀本科生，本科生达到什么条件可获得该基金资助？  **[[Link](https://mp.weixin.qq.com/s/KiAUwSch7bDZSv0MhDaVkw) ]**
+
+
+73.[太厉害了！国自然基金首次资助优秀本科生，中科大学生获批！](https://www.toutiao.com/article/7276439660618908160/?app=news_article&timestamp=1694186580&use_new_style=1&req_id=20230908232300DABEA794A86D09924A80&group_id=7276439660618908160&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=14ca7398-7393-4363-aa78-a8cd5ed45923&source=m_redirect&wid=1694229259017) 2023.09.08.
+
+
+- `2023.09.09` 窦贤康：下一步试点开展对博士生的直接资助  **[[Link](https://mp.weixin.qq.com/s/GbxRnsEDJHlVefZP-yoDig)]** 
 
 
 - `2023.07.31` 基金委两个学部，公布面青地等项目会评专家  **[[Link](https://mp.weixin.qq.com/s/6V-9ckmz6wAwX18VVUmYIw)]**
