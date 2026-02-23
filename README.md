@@ -360,7 +360,7 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 - `2025.02.05` 2025国家自然科学基金188问  **[[Link](https://mp.weixin.qq.com/s/3DuvhnIMK1RxkmU4AiwZ0w)]**
 
 
-108. [2025国家自然科学基金项目限项规定](https://mp.weixin.qq.com/s/3DuvhnIMK1RxkmU4AiwZ0w). 2025.02.05.
+- `2025.02.05` 2025国家自然科学基金项目限项规定  **[[Link](https://mp.weixin.qq.com/s/WolJeNLgHIjd9uFaxZ4t6Q)]**
 
 
 - `2025.02.08` 网民建议放宽“青年基金项目”申报35周岁的年龄限制，国自然基金委回应来了  **[[Link](https://mp.weixin.qq.com/s/GZ5WKv8icYwJulZRCn7jDw)]**
@@ -376,9 +376,6 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 
 
 - `2025.08.07` 面上项目或将增设“申请限制”，国自然即将开启“分阶段评审”!  **[[Link](https://mp.weixin.qq.com/s/lNAvdz9wx3GiPweQEZ1P5w) ]**
-
-
-114. [会评都结束了还没收到一点消息，是不是说明国自然就没戏了](https://www.toutiao.com/article/7536848061767631395/?app=news_article&share_uid=MS4wLjABAAAAy-1VsU4rron5VrLGQOiYVK8SwldCs0OK6cS6-id-QMI&share_did=MS4wLjACAAAAkf5J_NysSiIEUntFipvfMLBcB16PWFrcfCHenVgr10uwvsFKcx-5oXJSNyk5nEGW&upstream_biz=client_share&category_new=__all__&timestamp=1754818744&share_token=6f966023-ae99-49bb-8c28-3cb6b1fe47a9&source=m_redirect&wid=1754828973049). 2025.08.10.
 
 
 - `2025.10.05` 国家自然科学基金资助格局 **[[Link](https://mp.weixin.qq.com/s/9VOoBC_NPxwV71pi5H5XIg)]**
