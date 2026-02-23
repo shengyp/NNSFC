@@ -1,4 +1,4 @@
-# -NNSFC
+# NNSFC
 
 #### Paper List
 
@@ -106,10 +106,6 @@ https://mp.weixin.qq.com/s/eNkpELw0RBdZ9EJUl5SVrQ) 2021.08.18.
 https://mp.weixin.qq.com/s/Uai4JTSem2Iqy9Hri-jwHg)]**
 
 
-25. [杨顺华：青年基金申请一击即中的秘密，谈青基写作的几点个人体会](
-https://www.toutiao.com/i7004092661879636494/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1630838014&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210905183333010151196228558A7BB5&share_token=0ce9a7fe-b908-4828-86e9-9396f72c16ce&group_id=7004092661879636494). 2021.09.04.
-
-
 - `2021.09.05` 2021年青年科学基金项目评议要点  **[[Link](
 https://mp.weixin.qq.com/s/R17zM2VQWdty0He7kjksWg)]**
 
@@ -152,7 +148,7 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 - `2022.04.30` 2022年国自然：面上、青年等函评已开始  **[[Link](https://mp.weixin.qq.com/s/eOjxwEEbBpygPZp40zAw7A)]**
 
 
-38. [关于强化依托单位认真履行科研诚信主体责任 共同构建风清气正评审环境的通知](./report/关于强化依托单位认真履行科研诚信主体责任共同构建风清气正评审环境的通知.pdf). 2022.05.19.
+- `2022.05.19` 关于强化依托单位认真履行科研诚信主体责任 共同构建风清气正评审环境的通知  **[[Link](https://github.com/shengyp/files/关于强化依托单位认真履行科研诚信主体责任共同构建风清气正评审环境的通知.pdf)]**
 
 
 - `2022.08.08` 稳步扩大青基资助规模！科技部等五部门开展减轻青年科研人员负担专项行动（减负行动3.0）  **[[Link](https://mp.weixin.qq.com/s/MGVSguCkIuldEt4tCDGa6g)]**
@@ -257,9 +253,6 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 
 
 - `2023.07.09` 知乎热议 | 如何看待国家自然科学基金委试点资助优秀本科生，本科生达到什么条件可获得该基金资助？  **[[Link](https://mp.weixin.qq.com/s/KiAUwSch7bDZSv0MhDaVkw) ]**
-
-
-73.[太厉害了！国自然基金首次资助优秀本科生，中科大学生获批！](https://www.toutiao.com/article/7276439660618908160/?app=news_article&timestamp=1694186580&use_new_style=1&req_id=20230908232300DABEA794A86D09924A80&group_id=7276439660618908160&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=14ca7398-7393-4363-aa78-a8cd5ed45923&source=m_redirect&wid=1694229259017) 2023.09.08.
 
 
 - `2023.09.09` 窦贤康：下一步试点开展对博士生的直接资助  **[[Link](https://mp.weixin.qq.com/s/GbxRnsEDJHlVefZP-yoDig)]** 
@@ -420,6 +413,8 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 
 - `2026.01.24` 自然科学基金委通报一批科研不端行为和项目资金违规案件处理结果  **[[Link](https://mp.weixin.qq.com/s/sh_EEPkbh2ICRtMcxbFV7w)]**
 
+
+- `2026.02.21` 倒计时！国自然申请截止已不足两周  **[[Link](https://mp.weixin.qq.com/s/B17MoUc7xMDDZWLrylwTLw)]**
 
 
 
