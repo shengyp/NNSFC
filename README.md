@@ -300,7 +300,7 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 - `2023.09.10` 申请国自然，普通人最大的劣势并不是人脉！**[[Link](https://mp.weixin.qq.com/s/JEP2oNb8uGqegYjTiIj8eQ)]**
 
 
-- `2023.09.15` 国自然基金委：在各科学部设立科普类项目！面青地等将科普成果列入项目成果；资助强度较大项目，应围绕项目开展科普工作  **[[Link](https://mp.weixin.qq.com/s/BePzbFvEN3fTSYFa2k0jdw) ]**
+- `2023.09.15` 国自然基金委：在各科学部设立科普类项目！面青地等将科普成果列入项目成果；资助强度较大项目，应围绕项目开展科普工作  **[[Link](https://mp.weixin.qq.com/s/BePzbFvEN3fTSYFa2k0jdw)]**
 
 
 - `2023.10.05` 窦贤康：把有限的经费投入给最具活力的青年科学家身上  **[[Link](https://mp.weixin.qq.com/s/uhBcCm8myA1aM2lrje8dkg)]**
@@ -330,7 +330,7 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 - `2024.03.22` 自然基金|最近收到了report邮件了吗？  **[[Link](https://zhuanlan.zhihu.com/p/617620541?utm_id=0)]**
 
 
-- `2024.05.09` 2024年国自然科研项目申请量激增！科研竞争日益激烈！](https://mp.weixin.qq.com/s/PWkwBr1Q5Mo3IyJid7JFJA) 
+- `2024.05.09` 2024年国自然科研项目申请量激增！科研竞争日益激烈！  **[[Link](https://mp.weixin.qq.com/s?__biz=MzYyMjk3MDE4Nw==&mid=2247493157&idx=2&sn=70cd0e835570f6f636765a8e11ceee23&source=41&poc_token=HMPum2mjrKfC5odjZHJSOQtJJUdU9uCYnln2SLQS)]**
 
 
 96. `2024.06.08` 国家自然科学基金改革方向！国家基金委主任窦贤康发表重要文章  **[[Link](https://mp.weixin.qq.com/s/yIjIOxzHGSawvTJDEe6MRQ)]**
@@ -351,16 +351,7 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 - `2024.11.02` 窦贤康：将大幅度提高优秀青年基金的额度和数量  **[[Link](https://mp.weixin.qq.com/s/ABU5fhqTjXABhkeKw9TW_w)]**
 
 
-102. [国自然发文：打招呼比率高达70%，评审机制或迎重大变化！](https://www.toutiao.com/article/7439345920761774607/?app=news_article&use_new_style=1&is_hit_share_recommend=0&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=a0ba080d-7baf-404b-b163-702c8598b152&source=m_redirect). 2024.11.20.
-
-
-103. [两小时定生死：揭开国家自然科学基金评审流程的神秘面纱](https://mp.weixin.qq.com/s/nS-S8IxHyUWRxJludmrxIA). 2025.01.06.
-
-
 - `2025.01.13` 重磅！2025年度国家自然科学基金项目申报通知来了  **[[Link](https://mp.weixin.qq.com/s/Zx5Ejb1DR3Kfc_Q9lss0Fw)]**
-
-
-105. [关于2025年度国家自然科学基金项目申请与结题等有关事项的通告](https://www.nsfc.gov.cn/publish/portal0/tab442/info94273.htm). 2025.01.13.
 
 
 - `2025.01.21` 青年基金评审焦点：研究背景扎实还是创新点突出更关键？  **[[Link](https://mp.weixin.qq.com/s/aH7_o2QI_dfKUY6OlE-bwQ)]**
