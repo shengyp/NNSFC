@@ -1,6 +1,6 @@
-# NNSFC
+# 国家自然科学基金
 
-#### Paper List
+#### Available Links and Files
 
 [35岁青基挂了心态崩了怎么办?](https://www.zhihu.com/question/417631779) 
 
@@ -384,7 +384,7 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 - `2025.10.05` 国家自然科学基金资助格局 **[[Link](https://mp.weixin.qq.com/s/9VOoBC_NPxwV71pi5H5XIg)]**
 
 
--`2025.10.12` 国自然漫画：讲述国自然申报历程，画尽科研人的喜怒哀乐  **[[Link](https://mp.weixin.qq.com/s/PQumpUnFgGUcNB2i7_ozSw)]** 
+- `2025.10.12` 国自然漫画：讲述国自然申报历程，画尽科研人的喜怒哀乐  **[[Link](https://mp.weixin.qq.com/s/PQumpUnFgGUcNB2i7_ozSw)]** 
 
 
 - `2025.12.30` 重大调整！2026年国自然申请书改版！  **[[Link](https://mp.weixin.qq.com/s/ZlwA3ONV-FZS7JPeWWHduA)]**
