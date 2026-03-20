@@ -63,8 +63,16 @@ https://mp.weixin.qq.com/s/_0hpZWgCnsFlOVZ65XzR6g)]**
 https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A)]**
 
 
-16. [国家自然科学基金委更新四类科学问题属性案例（2021版）](
-https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.10. [[国家自然科学基金委更新四类科学问题属性案例（2021版）]](https://mp.weixin.qq.com/s/GDMHAUgakfDYmgt3ITbKRQ)  [[四类科学问题属性案例说明]](./国家自然科学基金/四类科学问题属性案例说明（2021-3-2）.pdf)  [[信息科学部案例]](./国家自然科学基金/信息科学部案例.pdf) 
+- `2021.03.10` 国家自然科学基金委更新四类科学问题属性案例（2021版）.  **[[Link](
+https://mp.weixin.qq.com/s/GDMHAUgakfDYmgt3ITbKRQ)]**
+
+
+- `2021.03.10` 国家自然科学基金信息科学部案例.  **[[Link](
+./files/信息科学部案例.pdf)]**
+
+
+- `2021.03.25` 重磅改革！国家自然科学基金委9个学部将整合为四大板块  **[[Link](
+https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw)]**
 
 
 - `2021.03.25` 重磅改革！国家自然科学基金委9个学部将整合为四大板块  **[[Link](
@@ -403,6 +411,9 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 
 
 - `2026.02.21` 倒计时！国自然申请截止已不足两周  **[[Link](https://mp.weixin.qq.com/s/B17MoUc7xMDDZWLrylwTLw)]**
+
+
+- `2026.03.15` 2026国自然提交后也不能放手不管：新增“评审期动态报告”，申请人务必注意！  **[[Link](https://mp.weixin.qq.com/s/RiVsrm_203vkNMcUtTbE-A)]**
 
 
 
