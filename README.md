@@ -20,6 +20,8 @@
 
 
 - `2020.12.29` 浅析人工智能学科基金项目申请资助情况及展望  **[[Link](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200870)]**
+
+
 - `2020.11.11`【重磅】浅析人工智能(F06)学科基金项目2018-2020申请资助情况及展望  **[[Link](https://mp.weixin.qq.com/s/Ph9--ufP9i4s_DYVo3GX5Q)]**
 
 
@@ -67,7 +69,7 @@ https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A)]**
 https://mp.weixin.qq.com/s/GDMHAUgakfDYmgt3ITbKRQ)]**
 
 
-- `2021.03.10` 国家自然科学基金信息科学部案例.  **[[Link](
+- `2021.03.10` 国家自然科学基金信息科学部案例.  **[[PDF](
 ./files/信息科学部案例.pdf)]**
 
 
@@ -95,19 +97,27 @@ http://www.360doc.com/content/20/0315/17/8729276_899375743.shtml)]**
 https://www.medsci.cn/article/show_article.do?id=e4c213996308)]**
 
 
-- `2022.05.18`【学术相关】国家自然科学基金申请——函评等级与上会  **[[Link](https://mp.weixin.qq.com/s/Iw6qMAhrCJJ9eqjxCNQ-kQ)]**
-
+- `2022.05.18` 【学术相关】国家自然科学基金申请——函评等级与上会  **[[Link](https://mp.weixin.qq.com/s/Iw6qMAhrCJJ9eqjxCNQ-kQ)]**
 
 
 - `2021.07.21` 国家自然科学基金委员会2020年度报告出炉！  **[[Link](
 https://mp.weixin.qq.com/s/wY02yGDxLi0W2F57O4em0Q)]**
 
 
-23. [2021年国基金即将公布，这几个问题先了解一下！](
-https://mp.weixin.qq.com/s/bwau18N95U0Pkbfad2LwNg) 2021.08.15. | [实锤！国自然放榜时间确定（内含时间表）](
-https://mp.weixin.qq.com/s/i6aqOYQ-ijdBtTLAEAVOYQ) 2021.08.17. | [通知通告 | 关于2021年国家自然科学基金集中接收申请项目评审结果的通告](
-https://mp.weixin.qq.com/s/6U-uuDcdT47UAQHf_oQWdw) 2021.08.18. | [重磅统计！国家自然科学基金申请，哪些高校表现出色？](
-https://mp.weixin.qq.com/s/eNkpELw0RBdZ9EJUl5SVrQ) 2021.08.18.
+- `2021.08.15` 2021年国基金即将公布，这几个问题先了解一下！  **[[Link](
+https://mp.weixin.qq.com/s/bwau18N95U0Pkbfad2LwNg)]**
+
+
+- `2021.08.17` 实锤！国自然放榜时间确定（内含时间表）  **[[Link](
+https://mp.weixin.qq.com/s/i6aqOYQ-ijdBtTLAEAVOYQ)]**
+
+
+- `2021.08.18` 通知通告 | 关于2021年国家自然科学基金集中接收申请项目评审结果的通告  **[[Link](
+https://mp.weixin.qq.com/s/6U-uuDcdT47UAQHf_oQWdw)]**
+
+
+- `2021.08.18` 重磅统计！国家自然科学基金申请，哪些高校表现出色？  **[[Link](
+https://mp.weixin.qq.com/s/eNkpELw0RBdZ9EJUl5SVrQ)]**
 
 
 - `2021.08.23` 国自然放榜后，这些评审意见背后的深意你知道吗？  **[[Link](
