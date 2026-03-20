@@ -326,9 +326,6 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 - `2024.01.03` 【国自然结题报告】面上项目：不完全信息条件下基于链路预测的复杂网络瓦解问题研究  **[[Link](https://mp.weixin.qq.com/s/1d3fvji9h1s5DT9AGNAmXA)]**
 
 
-92. [重磅！2024年度国自然基金申报，来了！](重磅！2024年度国自然基金申报，来了！)2024.01.09.
-
-
 - `2024.01.18` 雷区！2024年国自然各学部不予资助范围  **[[Link](https://mp.weixin.qq.com/s/cKRtN8fhMuEulL1Q5rs1xw)]**
 
 
@@ -339,9 +336,6 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 
 
 - `2024.05.09` 2024年国自然科研项目申请量激增！科研竞争日益激烈！  **[[Link](https://mp.weixin.qq.com/s?__biz=MzYyMjk3MDE4Nw==&mid=2247493157&idx=2&sn=70cd0e835570f6f636765a8e11ceee23&source=41&poc_token=HMPum2mjrKfC5odjZHJSOQtJJUdU9uCYnln2SLQS)]**
-
-
-96. `2024.06.08` 国家自然科学基金改革方向！国家基金委主任窦贤康发表重要文章  **[[Link](https://mp.weixin.qq.com/s/yIjIOxzHGSawvTJDEe6MRQ)]**
 
 
 - `2024.08.17` 2024国自然最新数据，面上资助率骤降至11.19%，青年申报数增加11.31％、杰青增加15.87％  **[[Link](https://mp.weixin.qq.com/s/FiaH61kAqM7vsD8q-CLGyg)]**
@@ -375,9 +369,6 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 
 
 - `2025.03.02` 国自然项目，如何凝练关键科学问题？  **[[Link](https://mp.weixin.qq.com/s/jOf2Tv8Agkc5XVJoOp2kLQ)]**
-
-
-111. [国自然的面上项目是什么意思？为什么叫面上项目？](https://www.toutiao.com/article/7479525770872750628/?app=news_article&use_new_style=1&is_hit_share_recommend=0&share_did=MS4wLjACAAAAkf5J_NysSiIEUntFipvfMLBcB16PWFrcfCHenVgr10uwvsFKcx-5oXJSNyk5nEGW&share_uid=MS4wLjABAAAAy-1VsU4rron5VrLGQOiYVK8SwldCs0OK6cS6-id-QMI&req_id_new=202503262059592ABCF9348D8EE5DA1823&chn_id=94349612189&category_new=text_inner_flow&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=60098027-139a-4bc7-8ffb-f0616efcb3e1&source=m_redirect&wid=1743193317970). 2025.03.09.
 
 
 - `2025.06.13` 基金委：严正声明  **[[Link](https://mp.weixin.qq.com/s/0QEWquUqTdkBfgH70yjeIw)]**
