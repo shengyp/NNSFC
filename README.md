@@ -77,10 +77,6 @@ https://mp.weixin.qq.com/s/GDMHAUgakfDYmgt3ITbKRQ)]**
 https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw)]**
 
 
-- `2021.03.25` 重磅改革！国家自然科学基金委9个学部将整合为四大板块  **[[Link](
-https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw)]**
-
-
 - `2021.05.08` 据悉，2021年NSFC青年基金，竞争或将非常激烈....  **[[Link](
 https://mp.weixin.qq.com/s/oM1TFFJIkFq62n_qsG7LNw)]**
 
@@ -415,6 +411,9 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 
 
 - `2026.03.15` 2026国自然提交后也不能放手不管：新增“评审期动态报告”，申请人务必注意！  **[[Link](https://mp.weixin.qq.com/s/RiVsrm_203vkNMcUtTbE-A)]**
+
+
+- `2026.03.24` 2026 年度青年科学基金人才计划改革政策解析  **[[Link](https://mp.weixin.qq.com/s/rIVq_7001L7ngddg1j7zdQ)]**
 
 
 
