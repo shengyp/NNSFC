@@ -416,6 +416,9 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 - `2026.03.24` 2026 年度青年科学基金人才计划改革政策解析  **[[Link](https://mp.weixin.qq.com/s/rIVq_7001L7ngddg1j7zdQ)]**
 
 
+- `2026.07.06` 国自然公布：各学部青C资助率均下降！  **[[Link](https://mp.weixin.qq.com/s/qrAsBSCKBMYBQLMmgs6ckw)]**
+
+
 
 ## 国家重点研发计划
 - `2021.05.11` “十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目  **[[Link](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg)]** 
