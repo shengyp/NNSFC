@@ -419,6 +419,12 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 - `2026.07.06` 国自然公布：各学部青C资助率均下降！  **[[Link](https://mp.weixin.qq.com/s/qrAsBSCKBMYBQLMmgs6ckw)]**
 
 
+- `2026.07.20` 国自然公布：各学部青C资助率均下降！  **[[Link](https://mp.weixin.qq.com/s/qrAsBSCKBMYBQLMmgs6ckw)]**
+
+
+- `2026.08.11` 2026自然基金放榜时间！AI本子直接给C，青C狂增1.2万项，面上跌破6%  **[[Link](https://www.toutiao.com/article/7672583913360917001/?app=news_article&category_new=__all__&module_name=Android_tt_others&share_did=MS4wLjACAAAAkf5J_NysSiIEUntFipvfMLBcB16PWFrcfCHenVgr10uwvsFKcx-5oXJSNyk5nEGW&share_uid=MS4wLjABAAAAy-1VsU4rron5VrLGQOiYVK8SwldCs0OK6cS6-id-QMI&timestamp=1786457455&tt_from=wechat&upstream_biz=Android_wechat&utm_campaign=client_share&utm_medium=toutiao_android&utm_source=wechat&share_token=df7ef278-285b-4d5b-b8d8-c605392bc42a&source=m_redirect)]**
+
+
 
 ## 国家重点研发计划
 - `2021.05.11` “十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目  **[[Link](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg)]** 
