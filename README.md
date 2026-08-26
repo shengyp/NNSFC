@@ -419,10 +419,15 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 - `2026.07.06` 国自然公布：各学部青C资助率均下降！  **[[Link](https://mp.weixin.qq.com/s/qrAsBSCKBMYBQLMmgs6ckw)]**
 
 
-- `2026.07.20` 国自然公布：各学部青C资助率均下降！  **[[Link](https://mp.weixin.qq.com/s/qrAsBSCKBMYBQLMmgs6ckw)]**
-
-
 - `2026.08.11` 2026自然基金放榜时间！AI本子直接给C，青C狂增1.2万项，面上跌破6%  **[[Link](https://www.toutiao.com/article/7672583913360917001/?app=news_article&category_new=__all__&module_name=Android_tt_others&share_did=MS4wLjACAAAAkf5J_NysSiIEUntFipvfMLBcB16PWFrcfCHenVgr10uwvsFKcx-5oXJSNyk5nEGW&share_uid=MS4wLjABAAAAy-1VsU4rron5VrLGQOiYVK8SwldCs0OK6cS6-id-QMI&timestamp=1786457455&tt_from=wechat&upstream_biz=Android_wechat&utm_campaign=client_share&utm_medium=toutiao_android&utm_source=wechat&share_token=df7ef278-285b-4d5b-b8d8-c605392bc42a&source=m_redirect)]**
+
+- `2026.08.26` 关于2026年国家自然科学基金集中接收申请项目评审结果的通告  **[[Link](https://www.nsfc.gov.cn/p1/3381/2822/141011.html)]**
+
+
+- `2026.08.26` 新疆理化所2026年度国家自然科学基金项目获批再创新高  **[[Link](https://mp.weixin.qq.com/s/BFgzeCp3VZDGvka8Z12VOA)]**
+
+
+- `2026.08.26` 喜报｜人工智能学院2026国家自然科学基金立项喜获佳绩  **[[Link](https://mp.weixin.qq.com/s/Pb8SY4ZdjpLMYKRhseA6Ow)]**
 
 
 
