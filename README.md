@@ -432,6 +432,9 @@ http://html.rhhz.net/tis/html/202111003.htm)]**
 
 - `2026.08.26` 2026国自然获批数量排名：深圳大学暂列第一，昌大昆理超300项！  **[[Link](https://www.toutiao.com/article/7678338495085118004/?app=news_article&category_new=__all__&module_name=Android_tt_others&share_did=MS4wLjACAAAAkf5J_NysSiIEUntFipvfMLBcB16PWFrcfCHenVgr10uwvsFKcx-5oXJSNyk5nEGW&share_uid=MS4wLjABAAAAy-1VsU4rron5VrLGQOiYVK8SwldCs0OK6cS6-id-QMI&timestamp=1787795401&tt_from=wechat&upstream_biz=Android_wechat&utm_campaign=client_share&utm_medium=toutiao_android&utm_source=wechat&share_token=7f598bac-a71f-442f-9475-ef38808e5a1b&source=m_redirect)]**
 
+- `2026.08.29` 喜报！我校国家自然科学基金项目获批103项  **[[Link](https://mp.weixin.qq.com/s/hX39naFKJMePX6xgQ_OGXg)]**
+
+
 - `2026.08.29` 喜报 | 计算机学院获8项国家自然科学基金项目  **[[Link](https://mp.weixin.qq.com/s/DSjYwdSFemMNsd72QXoEjA)]**
 
 
